@@ -4,7 +4,7 @@ Solved local user by using the name of the account of my pc and password, and I 
 
 # Screenshots
 
-here is an imgur album of all screenshots: https://imgur.com/a/fwLSFGR
+here is an imgur album of all screenshots: https://imgur.com/a/fwLSFGR, each should have an description of what they include
 
 # Experiment 2 implementation
 
